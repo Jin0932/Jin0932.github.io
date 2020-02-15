@@ -1,12 +1,12 @@
 @media (min-width: 1200px) {
   .post-container,
   .sidebar-container {
-    padding-right: 5%;
+    padding-right: 2%;
   }
 }
-@media (min-width: 868px) {
+@media (min-width: 1000px) {
   .post-container {
-    padding-right: 5%;
+    padding-right: 1%;
   }
 }
 .sidebar-container {
@@ -265,13 +265,13 @@ pre code {
 .post-container ol {
   margin-bottom: 40px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1068px) {
   .post-container ul,
   .post-container ol {
     padding-left: 30px;
   }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1000px) {
   .post-container ul,
   .post-container ol {
     padding-left: 20px;
