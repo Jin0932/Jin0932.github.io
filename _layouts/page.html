@@ -74,7 +74,9 @@ layout: default
     			{{ content }}
     		</div>
     <!-- Sidebar Container -->
-           
+            
+                <!-- Featured Tags -->
+                {% if site.featured-tags %}
                <section>
                     <hr class="hidden-sm hidden-xs">
                     <h5><a href="{{'/tags/' | prepend: site.baseurl }}">FEATURED TAGS</a></h5>
