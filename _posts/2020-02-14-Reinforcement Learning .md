@@ -4,7 +4,7 @@ title:      First BLog about reinforcement learning
 subtitle:   keynote collection
 date:       2020-02-05
 author:     J.Q.Wang
-header-img: img/post-bg-cook.jpg
+header-img: img/bgf.png
 catalog: true
 tags: -Reinforcement Learning
 ---
